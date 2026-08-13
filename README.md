@@ -1,3 +1,8 @@
+Full Name: [MAESELA KHOMOTSO APHANE] 
+Student Number: [10450509]
+MODULE: WEDE5020 - Web development
+DATE: 13/08/2026
+
 # Thorne & Co. Plumbing Services — Website
 
 WEDE5020 – Web Development
@@ -66,4 +71,4 @@ No frameworks, build tools, or backend are used — this is a static site, in li
 
 ## Author
 
-[Your Full Name] — [Your Student Number]
+
